@@ -1,4 +1,4 @@
-#About
+# About
 
 PyCharm lets you define live templates that expand a word into a snippet of
 code with some input fields. They work similar to textmate snippets and
